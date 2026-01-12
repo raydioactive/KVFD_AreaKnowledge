@@ -1,0 +1,993 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 20,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.14693756788027,
+          39.14801561295358
+        ]
+      },
+      "properties": {
+        "OBJECTID": 20,
+        "CATEGORY": "FIRE STATION",
+        "NAME": "Station 28 - Gaithersburg",
+        "ADDRESS": "7272 Muncaster Mill Rd",
+        "CITY": "Derwood",
+        "ZIPCODE": "20855",
+        "PHONE": "240-773-4728",
+        "URL": "http://www.montgomerycountymd.gov/mcfrs/",
+        "POINT_X": 1270662.12494036,
+        "POINT_Y": 539523.43740081,
+        "LATITUDE": 39.14800774,
+        "LONGITUDE": -77.14693525,
+        "INFO": "28"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 21,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.16388954357971,
+          38.99487854126958
+        ]
+      },
+      "properties": {
+        "OBJECTID": 21,
+        "CATEGORY": "FIRE STATION",
+        "NAME": "Station 10 - Cabin John",
+        "ADDRESS": "8001 River Road\n",
+        "CITY": "Bethesda",
+        "ZIPCODE": "20817",
+        "PHONE": "240-773-4710",
+        "URL": "http://www.montgomerycountymd.gov/mcfrs/",
+        "POINT_X": 1265754.37504779,
+        "POINT_Y": 483757.40624487,
+        "LATITUDE": 38.9948707,
+        "LONGITUDE": -77.16388723,
+        "INFO": "10"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 22,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.02711672112386,
+          39.150442271161765
+        ]
+      },
+      "properties": {
+        "OBJECTID": 22,
+        "CATEGORY": "FIRE STATION",
+        "NAME": "Station  4 - Sandy Spring",
+        "ADDRESS": "17921 Brooke Rd",
+        "CITY": "Sandy Spring",
+        "ZIPCODE": "20860",
+        "PHONE": "240-773-4704",
+        "URL": "http://www.montgomerycountymd.gov/mcfrs/",
+        "POINT_X": 1304643.87498801,
+        "POINT_Y": 540374.8749696,
+        "LATITUDE": 39.15043439,
+        "LONGITUDE": -77.02711444,
+        "INFO": " 4"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 23,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.02706819415148,
+          38.99085243170441
+        ]
+      },
+      "properties": {
+        "OBJECTID": 23,
+        "CATEGORY": "FIRE STATION",
+        "NAME": "Station  1 - Silver Spring",
+        "ADDRESS": "8110 Georgia Ave",
+        "CITY": "Silver Spring",
+        "ZIPCODE": "20910",
+        "PHONE": "240-773-4701",
+        "URL": "http://www.montgomerycountymd.gov/mcfrs/",
+        "POINT_X": 1304640.401068,
+        "POINT_Y": 482250.40387547,
+        "LATITUDE": 38.99084458,
+        "LONGITUDE": -77.02706593,
+        "INFO": " 1"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 24,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.28120669051997,
+          39.232618339813946
+        ]
+      },
+      "properties": {
+        "OBJECTID": 24,
+        "CATEGORY": "FIRE STATION",
+        "NAME": "Station 35 - Clarksburg",
+        "ADDRESS": "22610 Gateway Center Dr Suite 300",
+        "CITY": "Clarksburg",
+        "ZIPCODE": "20871",
+        "PHONE": "240-773-4735",
+        "URL": "http://www.montgomerycountymd.gov/mcfrs/",
+        "POINT_X": 1232678.08036098,
+        "POINT_Y": 570426.79410159,
+        "LATITUDE": 39.23261045,
+        "LONGITUDE": -77.28120433,
+        "INFO": "35"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 25,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.24427854985778,
+          39.19481273647375
+        ]
+      },
+      "properties": {
+        "OBJECTID": 25,
+        "CATEGORY": "FIRE STATION",
+        "NAME": "Station 34 - Germantown/Milestone",
+        "ADDRESS": "20633 Boland Farm Rd",
+        "CITY": "Germantown",
+        "ZIPCODE": "20876",
+        "PHONE": "240-773-4734",
+        "URL": "http://www.montgomerycountymd.gov/mcfrs/",
+        "POINT_X": 1243101.64235469,
+        "POINT_Y": 556627.00324074,
+        "LATITUDE": 39.19480486,
+        "LONGITUDE": -77.2442762,
+        "INFO": "34"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 26,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.19701417013187,
+          39.09403237951323
+        ]
+      },
+      "properties": {
+        "OBJECTID": 26,
+        "CATEGORY": "FIRE STATION",
+        "NAME": "Station 32 - Travilah",
+        "ADDRESS": "9615 Darnestown Rd",
+        "CITY": "Rockville",
+        "ZIPCODE": "20850",
+        "PHONE": "240-773-4732",
+        "URL": "http://www.montgomerycountymd.gov/mcfrs/",
+        "POINT_X": 1256417.86227109,
+        "POINT_Y": 519888.68743052,
+        "LATITUDE": 39.09402452,
+        "LONGITUDE": -77.19701184,
+        "INFO": "32"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 27,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.05158687681788,
+          39.046755878057006
+        ]
+      },
+      "properties": {
+        "OBJECTID": 27,
+        "CATEGORY": "FIRE STATION",
+        "NAME": "Station R2 - Wheaton Rescue",
+        "ADDRESS": "2400 Arcola Ave",
+        "CITY": "Wheaton",
+        "ZIPCODE": "20902",
+        "PHONE": "240-773-4742",
+        "URL": "http://www.montgomerycountymd.gov/mcfrs/",
+        "POINT_X": 1297682.97130152,
+        "POINT_Y": 502613.84479043,
+        "LATITUDE": 39.04674802,
+        "LONGITUDE": -77.0515846,
+        "INFO": "R2"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 28,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.20509974490376,
+          39.28920660817465
+        ]
+      },
+      "properties": {
+        "OBJECTID": 28,
+        "CATEGORY": "FIRE STATION",
+        "NAME": "Station 13 - Damascus",
+        "ADDRESS": "26334 Ridge Rd",
+        "CITY": "Damascus",
+        "ZIPCODE": "20872",
+        "PHONE": "240-773-4713",
+        "URL": "http://www.montgomerycountymd.gov/mcfrs/",
+        "POINT_X": 1254282.7500771,
+        "POINT_Y": 590980.43738473,
+        "LATITUDE": 39.28919871,
+        "LONGITUDE": -77.2050974,
+        "INFO": "13"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 29,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.31465822317023,
+          39.28022662708275
+        ]
+      },
+      "properties": {
+        "OBJECTID": 29,
+        "CATEGORY": "FIRE STATION",
+        "NAME": "Station  9 - Hyattstown",
+        "ADDRESS": "25801 Frederick Rd",
+        "CITY": "Clarksburg",
+        "ZIPCODE": "20871",
+        "PHONE": "240-773-4709",
+        "URL": "http://www.montgomerycountymd.gov/mcfrs/",
+        "POINT_X": 1223262.25008021,
+        "POINT_Y": 587797.93754177,
+        "LATITUDE": 39.28021873,
+        "LONGITUDE": -77.31465585,
+        "INFO": " 9"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 30,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.14174468520586,
+          39.20709505171158
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30,
+        "CATEGORY": "FIRE STATION",
+        "NAME": "Station 17 - Laytonsville",
+        "ADDRESS": "21400 Laytonsville Rd",
+        "CITY": "Laytonsville",
+        "ZIPCODE": "20882",
+        "PHONE": "240-773-4717",
+        "URL": "http://www.montgomerycountymd.gov/mcfrs/",
+        "POINT_X": 1272168.24999776,
+        "POINT_Y": 561039.06238085,
+        "LATITUDE": 39.20708716,
+        "LONGITUDE": -77.14174237,
+        "INFO": "17"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 31,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.26324659075651,
+          39.18510723013708
+        ]
+      },
+      "properties": {
+        "OBJECTID": 31,
+        "CATEGORY": "FIRE STATION",
+        "NAME": "Station 29 - Germantown",
+        "ADDRESS": "20001 Crystal Rock Dr",
+        "CITY": "Germantown",
+        "ZIPCODE": "20874",
+        "PHONE": "240-773-4729",
+        "URL": "http://www.montgomerycountymd.gov/mcfrs/",
+        "POINT_X": 1237715.62506967,
+        "POINT_Y": 553106.99990946,
+        "LATITUDE": 39.18509935,
+        "LONGITUDE": -77.26324424,
+        "INFO": "29"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 32,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.41163148080761,
+          39.180215832183826
+        ]
+      },
+      "properties": {
+        "OBJECTID": 32,
+        "CATEGORY": "FIRE STATION",
+        "NAME": "Station 14 - Upper Montgomery",
+        "ADDRESS": "19801 Beallsville Rd",
+        "CITY": "Beallsville",
+        "ZIPCODE": "20839",
+        "PHONE": "240-773-4714",
+        "URL": "http://www.montgomerycountymd.gov/mcfrs/",
+        "POINT_X": 1195647.5001025,
+        "POINT_Y": 551480.93757194,
+        "LATITUDE": 39.18020796,
+        "LONGITUDE": -77.41162908,
+        "INFO": "14"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 33,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.06922143453413,
+          39.13404963484558
+        ]
+      },
+      "properties": {
+        "OBJECTID": 33,
+        "CATEGORY": "FIRE STATION",
+        "NAME": "Station 40 - Sandy Spring",
+        "ADDRESS": "16911 Georgia Ave",
+        "CITY": "Olney",
+        "ZIPCODE": "20832",
+        "PHONE": "240-773-4740",
+        "URL": "http://www.montgomerycountymd.gov/mcfrs/",
+        "POINT_X": 1292698.75011288,
+        "POINT_Y": 534410.68757205,
+        "LATITUDE": 39.13404176,
+        "LONGITUDE": -77.06921915,
+        "INFO": "40"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 34,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.25051678767193,
+          39.11614073834318
+        ]
+      },
+      "properties": {
+        "OBJECTID": 34,
+        "CATEGORY": "FIRE STATION",
+        "NAME": "Station 31 - Rockville",
+        "ADDRESS": "12100 Darnestown Rd",
+        "CITY": "North Potomac",
+        "ZIPCODE": "20878",
+        "PHONE": "240-773-4731",
+        "URL": "http://www.montgomerycountymd.gov/mcfrs/",
+        "POINT_X": 1241254.99992097,
+        "POINT_Y": 527978.06241405,
+        "LATITUDE": 39.11613287,
+        "LONGITUDE": -77.25051444,
+        "INFO": "31"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 35,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.06909526787402,
+          39.092194457810436
+        ]
+      },
+      "properties": {
+        "OBJECTID": 35,
+        "CATEGORY": "FIRE STATION",
+        "NAME": "Station 25 - Kensington",
+        "ADDRESS": "14401 Connecticut Ave",
+        "CITY": "Layhill",
+        "ZIPCODE": "20906",
+        "PHONE": "240-773-4725",
+        "URL": "http://www.montgomerycountymd.gov/mcfrs/",
+        "POINT_X": 1292722.9999689,
+        "POINT_Y": 519166.37498185,
+        "LATITUDE": 39.09218659,
+        "LONGITUDE": -77.06909298,
+        "INFO": "25"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 36,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.15077013226325,
+          39.08762678609267
+        ]
+      },
+      "properties": {
+        "OBJECTID": 36,
+        "CATEGORY": "FIRE STATION",
+        "NAME": "Station  3 - Rockville",
+        "ADDRESS": "380 Hungerford Dr",
+        "CITY": "Rockville",
+        "ZIPCODE": "20850",
+        "PHONE": "240-773-4703",
+        "URL": "http://www.montgomerycountymd.gov/mcfrs/",
+        "POINT_X": 1269538.87501931,
+        "POINT_Y": 517530.68755632,
+        "LATITUDE": 39.08761892,
+        "LONGITUDE": -77.15076782,
+        "INFO": " 3"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 37,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.00324930925179,
+          39.07302552999351
+        ]
+      },
+      "properties": {
+        "OBJECTID": 37,
+        "CATEGORY": "FIRE STATION",
+        "NAME": "Station 24 - Hillandale",
+        "ADDRESS": "13216 New Hampshire Ave",
+        "CITY": "Silver Spring",
+        "ZIPCODE": "20904",
+        "PHONE": "240-773-4724",
+        "URL": "http://www.montgomerycountymd.gov/mcfrs/",
+        "POINT_X": 1311411.49995431,
+        "POINT_Y": 512177.40627134,
+        "LATITUDE": 39.07301766,
+        "LONGITUDE": -77.00324704,
+        "INFO": "24"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 38,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.17794466045707,
+          39.1760046849923
+        ]
+      },
+      "properties": {
+        "OBJECTID": 38,
+        "CATEGORY": "FIRE STATION",
+        "NAME": "Station 27 - Public Safety Training Academy",
+        "ADDRESS": "8751 Snouffer School Rd",
+        "CITY": "Gaithersburg",
+        "ZIPCODE": "20879",
+        "PHONE": "240-773-8200",
+        "URL": "http://www.montgomerycountymd.gov/mcfrs/",
+        "POINT_X": null,
+        "POINT_Y": null,
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "INFO": "27"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.09262204225794,
+          39.06139127369566
+        ]
+      },
+      "properties": {
+        "OBJECTID": 1,
+        "CATEGORY": "FIRE STATION",
+        "NAME": "Station 21 - Kensington",
+        "ADDRESS": "12500 Viers Mill Rd",
+        "CITY": "Rockville",
+        "ZIPCODE": "20853",
+        "PHONE": "240-773-4721",
+        "URL": "http://www.montgomerycountymd.gov/mcfrs/",
+        "POINT_X": 1286034.12495467,
+        "POINT_Y": 507953.40626741,
+        "LATITUDE": 39.06138341,
+        "LONGITUDE": -77.09261975,
+        "INFO": "21"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 2,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.12294081118347,
+          39.05900440908899
+        ]
+      },
+      "properties": {
+        "OBJECTID": 2,
+        "CATEGORY": "FIRE STATION",
+        "NAME": "Station 23 - Rockville",
+        "ADDRESS": "121 Rollins Ave",
+        "CITY": "Rockville",
+        "ZIPCODE": "20852",
+        "PHONE": "240-773-4723",
+        "URL": "http://www.montgomerycountymd.gov/mcfrs/",
+        "POINT_X": 1277423.99989066,
+        "POINT_Y": 507094.25004261,
+        "LATITUDE": 39.05899655,
+        "LONGITUDE": -77.12293851,
+        "INFO": "23"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 3,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.05072704051719,
+          39.056132766745435
+        ]
+      },
+      "properties": {
+        "OBJECTID": 3,
+        "CATEGORY": "FIRE STATION",
+        "NAME": "Station 18 - Kensington",
+        "ADDRESS": "12210 Georgia Ave",
+        "CITY": "Wheaton",
+        "ZIPCODE": "20902",
+        "PHONE": "240-773-4718",
+        "URL": "http://www.montgomerycountymd.gov/mcfrs/",
+        "POINT_X": 1297946.77187777,
+        "POINT_Y": 506204.00210578,
+        "LATITUDE": 39.05660581,
+        "LONGITUDE": -77.05066276,
+        "INFO": "18"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 4,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.07620693644384,
+          39.0300205681636
+        ]
+      },
+      "properties": {
+        "OBJECTID": 4,
+        "CATEGORY": "FIRE STATION",
+        "NAME": "Station  5 - Kensington",
+        "ADDRESS": "10620 Connecticut Ave",
+        "CITY": "Kensington",
+        "ZIPCODE": "20895",
+        "PHONE": "240-773-4705",
+        "URL": "http://www.montgomerycountymd.gov/mcfrs/",
+        "POINT_X": 1290685.62499101,
+        "POINT_Y": 496523.59377676,
+        "LATITUDE": 39.03001271,
+        "LONGITUDE": -77.07620465,
+        "INFO": " 5"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 5,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.98327754821318,
+          39.030209011227356
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5,
+        "CATEGORY": "FIRE STATION",
+        "NAME": "Station 12 - Hillandale",
+        "ADDRESS": "10617 New Hampshire Ave",
+        "CITY": "Silver Spring",
+        "ZIPCODE": "20903",
+        "PHONE": "240-773-4712",
+        "URL": "http://www.montgomerycountymd.gov/mcfrs/",
+        "POINT_X": 1317084.37496759,
+        "POINT_Y": 496583.62500882,
+        "LATITUDE": 39.03020115,
+        "LONGITUDE": -76.98327529,
+        "INFO": "12"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 6,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.00712535652697,
+          39.01735811729654
+        ]
+      },
+      "properties": {
+        "OBJECTID": 6,
+        "CATEGORY": "FIRE STATION",
+        "NAME": "Station 16 - Silver Spring",
+        "ADDRESS": "111 E University Blvd",
+        "CITY": "Silver Spring",
+        "ZIPCODE": "20901",
+        "PHONE": "240-773-4716",
+        "URL": "http://www.montgomerycountymd.gov/mcfrs/",
+        "POINT_X": 1310309.50008128,
+        "POINT_Y": 491902.87492446,
+        "LATITUDE": 39.01735026,
+        "LONGITUDE": -77.00712309,
+        "INFO": "16"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 7,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.22015386225426,
+          39.01016042642014
+        ]
+      },
+      "properties": {
+        "OBJECTID": 7,
+        "CATEGORY": "FIRE STATION",
+        "NAME": "Station 30 - Cabin John",
+        "ADDRESS": "9404 Falls Road\n",
+        "CITY": "Potomac",
+        "ZIPCODE": "20854",
+        "PHONE": "240-773-4730",
+        "URL": "http://www.montgomerycountymd.gov/mcfrs/",
+        "POINT_X": 1249776.74994491,
+        "POINT_Y": 489356.78135409,
+        "LATITUDE": 39.01015258,
+        "LONGITUDE": -77.22015153,
+        "INFO": "30"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.04216986182979,
+          39.00907195610343
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8,
+        "CATEGORY": "FIRE STATION",
+        "NAME": "Station 19 - Silver Spring",
+        "ADDRESS": "1945 Seminary Rd",
+        "CITY": "Silver Spring",
+        "ZIPCODE": "20910",
+        "PHONE": "240-773-4719",
+        "URL": "http://www.montgomerycountymd.gov/mcfrs/",
+        "POINT_X": 1300351.12490401,
+        "POINT_Y": 488887.68746565,
+        "LATITUDE": 39.0090641,
+        "LONGITUDE": -77.04216759,
+        "INFO": "19"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 9,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.28385054641595,
+          39.16180548114447
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9,
+        "CATEGORY": "FIRE STATION",
+        "NAME": "Station 22 - Germantown/Kingsview",
+        "ADDRESS": "18910 Germantown Rd",
+        "CITY": "Germantown",
+        "ZIPCODE": "20874",
+        "PHONE": "240-773-4722",
+        "URL": "http://www.montgomerycountymd.gov/mcfrs/",
+        "POINT_X": 1231848.97520821,
+        "POINT_Y": 544637.56143757,
+        "LATITUDE": 39.16179761,
+        "LONGITUDE": -77.28384819,
+        "INFO": "22"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 10,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.00711522436998,
+          38.977605590640025
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10,
+        "CATEGORY": "FIRE STATION",
+        "NAME": "Station  2 - Takoma Park",
+        "ADDRESS": "7201 Carroll Ave",
+        "CITY": "Takoma Park",
+        "ZIPCODE": "20912",
+        "PHONE": "240-773-4702",
+        "URL": "http://www.montgomerycountymd.gov/mcfrs/",
+        "POINT_X": 1310311.25009728,
+        "POINT_Y": 477424.78134297,
+        "LATITUDE": 38.97759774,
+        "LONGITUDE": -77.00711296,
+        "INFO": " 2"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 11,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.13764748295497,
+          39.02109189761475
+        ]
+      },
+      "properties": {
+        "OBJECTID": 11,
+        "CATEGORY": "FIRE STATION",
+        "NAME": "Station 26 - Bethesda",
+        "ADDRESS": "6700 Democracy Blvd",
+        "CITY": "Bethesda",
+        "ZIPCODE": "20817",
+        "PHONE": "240-773-4726",
+        "URL": "http://www.montgomerycountymd.gov/mcfrs/",
+        "POINT_X": 1273227.11028675,
+        "POINT_Y": 493292.15006175,
+        "LATITUDE": 39.02108405,
+        "LONGITUDE": -77.13764518,
+        "INFO": "26"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0911344729658,
+          38.976772238633856
+        ]
+      },
+      "properties": {
+        "OBJECTID": 12,
+        "CATEGORY": "FIRE STATION",
+        "NAME": "Station  6 - Bethesda",
+        "ADDRESS": "6600 Wisconsin Ave",
+        "CITY": "Bethesda",
+        "ZIPCODE": "20815",
+        "PHONE": "240-773-4706",
+        "URL": "http://www.montgomerycountymd.gov/mcfrs/",
+        "POINT_X": 1286425.74991504,
+        "POINT_Y": 477134.1250867,
+        "LATITUDE": 38.9767644,
+        "LONGITUDE": -77.09113219,
+        "INFO": " 6"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 13,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.10287578761847,
+          38.990507359215194
+        ]
+      },
+      "properties": {
+        "OBJECTID": 13,
+        "CATEGORY": "FIRE STATION",
+        "NAME": "Station R1 - Bethesda / Chevy Chase Rescue",
+        "ADDRESS": "5020 Battery La",
+        "CITY": "Bethesda",
+        "ZIPCODE": "20814",
+        "PHONE": "240-773-4741",
+        "URL": "http://www.montgomerycountymd.gov/mcfrs/",
+        "POINT_X": 1283093.50005594,
+        "POINT_Y": 482140.06249936,
+        "LATITUDE": 38.99049951,
+        "LONGITUDE": -77.1028735,
+        "INFO": "R1"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 14,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.11009167044398,
+          39.00411407641874
+        ]
+      },
+      "properties": {
+        "OBJECTID": 14,
+        "CATEGORY": "FIRE STATION",
+        "NAME": "Station 20 - Bethesda",
+        "ADDRESS": "9041 Old Georgetown Rd",
+        "CITY": "Bethesda",
+        "ZIPCODE": "20814",
+        "PHONE": "240-773-4720",
+        "URL": "http://www.montgomerycountymd.gov/mcfrs/",
+        "POINT_X": 1281048.50011803,
+        "POINT_Y": 487098.09386398,
+        "LATITUDE": 39.00410623,
+        "LONGITUDE": -77.11008938,
+        "INFO": "20"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 15,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.19369751012391,
+          39.04380837621258
+        ]
+      },
+      "properties": {
+        "OBJECTID": 15,
+        "CATEGORY": "FIRE STATION",
+        "NAME": "Station 33 - Rockville",
+        "ADDRESS": "11430 Falls Rd",
+        "CITY": "Potomac",
+        "ZIPCODE": "20854",
+        "PHONE": "240-773-4733",
+        "URL": "http://www.montgomerycountymd.gov/mcfrs/",
+        "POINT_X": 1257320.37491193,
+        "POINT_Y": 501594.56261348,
+        "LATITUDE": 39.04380052,
+        "LONGITUDE": -77.19369519,
+        "INFO": "33"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 16,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.12088076028475,
+          38.96291439833654
+        ]
+      },
+      "properties": {
+        "OBJECTID": 16,
+        "CATEGORY": "FIRE STATION",
+        "NAME": "Station 11 - Glen Echo",
+        "ADDRESS": "5920 Massachusetts Ave",
+        "CITY": "Bethesda",
+        "ZIPCODE": "20816",
+        "PHONE": "240-773-4711",
+        "URL": "http://www.montgomerycountymd.gov/mcfrs/",
+        "POINT_X": 1277962.62491516,
+        "POINT_Y": 472096.87503401,
+        "LATITUDE": 38.96290656,
+        "LONGITUDE": -77.12087847,
+        "INFO": "11"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 17,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.07667415181609,
+          38.99070619701126
+        ]
+      },
+      "properties": {
+        "OBJECTID": 17,
+        "CATEGORY": "FIRE STATION",
+        "NAME": "Station  7 - Chevy Chase",
+        "ADDRESS": "8001 Connecticut Ave",
+        "CITY": "Chevy Chase",
+        "ZIPCODE": "20815",
+        "PHONE": "240-773-4707",
+        "URL": "http://www.montgomerycountymd.gov/mcfrs/",
+        "POINT_X": 1290540.87491087,
+        "POINT_Y": 482205.15613143,
+        "LATITUDE": 38.99069835,
+        "LONGITUDE": -77.07667187,
+        "INFO": " 7"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 18,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.95143001613154,
+          39.08510135193904
+        ]
+      },
+      "properties": {
+        "OBJECTID": 18,
+        "CATEGORY": "FIRE STATION",
+        "NAME": "Station 15 - Burtonsville",
+        "ADDRESS": "13900 Old Columbia Pike",
+        "CITY": "Burtonsville",
+        "ZIPCODE": "20866",
+        "PHONE": "240-773-4715",
+        "URL": "http://www.montgomerycountymd.gov/mcfrs/",
+        "POINT_X": 1326120.75001601,
+        "POINT_Y": 516579.21875544,
+        "LATITUDE": 39.08509348,
+        "LONGITUDE": -76.95142777,
+        "INFO": "15"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 19,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.20947742958673,
+          39.15511576488041
+        ]
+      },
+      "properties": {
+        "OBJECTID": 19,
+        "CATEGORY": "FIRE STATION",
+        "NAME": "Station  8 - Gaithersburg",
+        "ADDRESS": "801 Russell Ave",
+        "CITY": "Gaithersburg",
+        "ZIPCODE": "20879",
+        "PHONE": "240-773-4708",
+        "URL": "http://www.montgomerycountymd.gov/mcfrs/",
+        "POINT_X": 1252931.62508385,
+        "POINT_Y": 542144.06255525,
+        "LATITUDE": 39.15510789,
+        "LONGITUDE": -77.2094751,
+        "INFO": " 8"
+      }
+    }
+  ]
+}

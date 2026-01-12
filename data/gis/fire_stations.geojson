@@ -1,0 +1,826 @@
+{
+  "type": "FeatureCollection",
+  "name": "Montgomery County Fire Stations",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 432,
+        "station_number": "Rescue 1",
+        "station_name": "Bethesda-Chevy Chase Rescue Squad",
+        "address": "5020 Battery La",
+        "city": "Bethesda",
+        "zip_code": "20814",
+        "station_type": "rescue",
+        "apparatus": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.1028354,
+          38.9904825
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 8435,
+        "station_number": "Rescue 2",
+        "station_name": "Wheaton Volunteer Rescue Squad",
+        "address": "2400 Arcola Ave",
+        "city": "Wheaton",
+        "zip_code": "20902",
+        "station_type": "rescue",
+        "apparatus": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0514508,
+          39.0467489
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1,
+        "station_number": "1",
+        "station_name": "Silver Spring Volunteer Fire Dept",
+        "address": "8110 Georgia Ave",
+        "city": "Silver Spring",
+        "zip_code": "20910",
+        "station_type": "volunteer",
+        "apparatus": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0265135,
+          38.9907024
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 2,
+        "station_number": "2",
+        "station_name": "Takoma Park Volunteer Fire Dept",
+        "address": "7201 Carroll Ave",
+        "city": "Takoma Park",
+        "zip_code": "20912",
+        "station_type": "volunteer",
+        "apparatus": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0082519,
+          38.9767439
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 3,
+        "station_number": "3",
+        "station_name": "Rockville Volunteer Fire Dept",
+        "address": "380 Hungerford Dr",
+        "city": "Rockville",
+        "zip_code": "20850",
+        "station_type": "volunteer",
+        "apparatus": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.1506579,
+          39.087839
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 4,
+        "station_number": "4",
+        "station_name": "Sandy Spring Volunteer Fire Dept",
+        "address": "17921 Brooke Rd",
+        "city": "Sandy Spring",
+        "zip_code": "20860",
+        "station_type": "volunteer",
+        "apparatus": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0271766,
+          39.1506442
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 5,
+        "station_number": "5",
+        "station_name": "Kensington Volunteer Fire Dept",
+        "address": "10620 Connecticut Ave",
+        "city": "Kensington",
+        "zip_code": "20895",
+        "station_type": "volunteer",
+        "apparatus": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0762032,
+          39.0300464
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 6,
+        "station_number": "6",
+        "station_name": "Bethesda Fire Dept",
+        "address": "6600 Wisconsin Ave",
+        "city": "Bethesda",
+        "zip_code": "20815",
+        "station_type": "volunteer",
+        "apparatus": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.09057,
+          38.976463
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 7,
+        "station_number": "7",
+        "station_name": "Chevy Chase Fire Dept",
+        "address": "8001 Connecticut Ave",
+        "city": "Chevy Chase",
+        "zip_code": "20815",
+        "station_type": "volunteer",
+        "apparatus": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0767377,
+          38.9906796
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 8,
+        "station_number": "8",
+        "station_name": "Gaithersburg-Washington Grove Volunteer Fire Dept",
+        "address": "801 Russell Ave",
+        "city": "Gaithersburg",
+        "zip_code": "20879",
+        "station_type": "volunteer",
+        "apparatus": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.2094914,
+          39.1551124
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 9,
+        "station_number": "9",
+        "station_name": "Hyattstown Volunteer Fire Dept",
+        "address": "25801 Frederick Rd",
+        "city": "Clarksburg",
+        "zip_code": "20871",
+        "station_type": "volunteer",
+        "apparatus": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.2716139,
+          39.2329031
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 10,
+        "station_number": "10",
+        "station_name": "Cabin John Park Volunteer Fire Dept",
+        "address": "8201 River Rd",
+        "city": "Bethesda",
+        "zip_code": "20817",
+        "station_type": "volunteer",
+        "apparatus": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.1673217,
+          38.9959164
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 11,
+        "station_number": "11",
+        "station_name": "Glen Echo Fire Dept",
+        "address": "5920 Massachusetts Ave",
+        "city": "Bethesda",
+        "zip_code": "20816",
+        "station_type": "volunteer",
+        "apparatus": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.1197822,
+          38.9623798
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 12,
+        "station_number": "12",
+        "station_name": "Hillandale Volunteer Fire Dept",
+        "address": "10617 New Hampshire Ave",
+        "city": "Silver Spring",
+        "zip_code": "20903",
+        "station_type": "volunteer",
+        "apparatus": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9834518,
+          39.0298697
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13,
+        "station_number": "13",
+        "station_name": "Damascus Volunteer Fire Dept",
+        "address": "26334 Ridge Rd",
+        "city": "Damascus",
+        "zip_code": "20872",
+        "station_type": "volunteer",
+        "apparatus": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.2049955,
+          39.2893186
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 14,
+        "station_number": "14",
+        "station_name": "Upper Montgomery County Volunteer Fire Dept",
+        "address": "19801 Beallsville Rd",
+        "city": "Beallsville",
+        "zip_code": "20839",
+        "station_type": "volunteer",
+        "apparatus": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.4115781,
+          39.1802953
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 15,
+        "station_number": "15",
+        "station_name": "Burtonsville Volunteer Fire Dept",
+        "address": "13900 Old Columbia Pike",
+        "city": "Burtonsville",
+        "zip_code": "20866",
+        "station_type": "volunteer",
+        "apparatus": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9280361,
+          39.1215332
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 16,
+        "station_number": "16",
+        "station_name": "Silver Spring Volunteer Fire Dept",
+        "address": "111 E University Blvd",
+        "city": "Silver Spring",
+        "zip_code": "20901",
+        "station_type": "volunteer",
+        "apparatus": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0200869,
+          39.0260598
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 17,
+        "station_number": "17",
+        "station_name": "Laytonsville Volunteer Fire Dept",
+        "address": "21400 Laytonsville Rd",
+        "city": "Laytonsville",
+        "zip_code": "20882",
+        "station_type": "volunteer",
+        "apparatus": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.1416815,
+          39.2070516
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 18,
+        "station_number": "18",
+        "station_name": "Kensington Volunteer Fire Dept",
+        "address": "12210 Georgia Ave",
+        "city": "Wheaton",
+        "zip_code": "20902",
+        "station_type": "volunteer",
+        "apparatus": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0514352,
+          39.0407925
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 19,
+        "station_number": "19",
+        "station_name": "Silver Spring Volunteer Fire Dept",
+        "address": "1945 Seminary Rd",
+        "city": "Silver Spring",
+        "zip_code": "20910",
+        "station_type": "volunteer",
+        "apparatus": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0421612,
+          39.0090311
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 20,
+        "station_number": "20",
+        "station_name": "Bethesda Fire Dept",
+        "address": "9041 Old Georgetown Rd",
+        "city": "Bethesda",
+        "zip_code": "20814",
+        "station_type": "volunteer",
+        "apparatus": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.1080131,
+          39.0034351
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 21,
+        "station_number": "21",
+        "station_name": "Kensington Volunteer Fire Dept",
+        "address": "12500 Viers Mill Rd",
+        "city": "Rockville",
+        "zip_code": "20853",
+        "station_type": "volunteer",
+        "apparatus": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.09262204225794,
+          39.06139127369566
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 22,
+        "station_number": "22",
+        "station_name": "Montgomery County Fire Rescue (Kingsview)",
+        "address": "18910 Germantown Rd",
+        "city": "Germantown",
+        "zip_code": "20874",
+        "station_type": "career",
+        "apparatus": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.284039,
+          39.1616788
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 23,
+        "station_number": "23",
+        "station_name": "Rockville Volunteer Fire Dept",
+        "address": "121 Rollins Ave",
+        "city": "Rockville",
+        "zip_code": "20852",
+        "station_type": "volunteer",
+        "apparatus": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.1226525,
+          39.0588677
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 24,
+        "station_number": "24",
+        "station_name": "Hillandale Volunteer Fire Dept",
+        "address": "13216 New Hampshire Ave",
+        "city": "Silver Spring",
+        "zip_code": "20904",
+        "station_type": "volunteer",
+        "apparatus": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0019544,
+          39.0761335
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 25,
+        "station_number": "25",
+        "station_name": "Kensington Volunteer Fire Dept",
+        "address": "14401 Connecticut Ave",
+        "city": "Layhill",
+        "zip_code": "20906",
+        "station_type": "volunteer",
+        "apparatus": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.06909526787402,
+          39.092194457810436
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 26,
+        "station_number": "26",
+        "station_name": "Bethesda Fire Dept",
+        "address": "6700 Democracy Blvd",
+        "city": "Bethesda",
+        "zip_code": "20817",
+        "station_type": "volunteer",
+        "apparatus": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.1376534,
+          39.0210326
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 28,
+        "station_number": "28",
+        "station_name": "Gaithersburg-Washington Grove Volunteer Fire Dept",
+        "address": "7272 Muncaster Mill Rd",
+        "city": "Derwood",
+        "zip_code": "20855",
+        "station_type": "volunteer",
+        "apparatus": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.14693756788027,
+          39.14801561295358
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 29,
+        "station_number": "29",
+        "station_name": "Germantown Volunteer Fire Dept",
+        "address": "20001 Crystal Rock Dr",
+        "city": "Germantown",
+        "zip_code": "20874",
+        "station_type": "volunteer",
+        "apparatus": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.2633278,
+          39.1851288
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 30,
+        "station_number": "30",
+        "station_name": "Cabin John Park Volunteer Fire Dept",
+        "address": "9404 Falls Road",
+        "city": "Potomac",
+        "zip_code": "20854",
+        "station_type": "volunteer",
+        "apparatus": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.2201,
+          39.0103
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 31,
+        "station_number": "31",
+        "station_name": "Rockville Volunteer Fire Dept",
+        "address": "12100 Darnestown Rd",
+        "city": "North Potomac",
+        "zip_code": "20878",
+        "station_type": "volunteer",
+        "apparatus": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.2061144,
+          39.0968708
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 33,
+        "station_number": "33",
+        "station_name": "Rockville Volunteer Fire Dept",
+        "address": "11430 Falls Rd",
+        "city": "Potomac",
+        "zip_code": "20854",
+        "station_type": "volunteer",
+        "apparatus": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.1936082,
+          39.0437852
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 34,
+        "station_number": "34",
+        "station_name": "Montgomery County Fire Rescue (Milestone)",
+        "address": "20633 Boland Farm Rd",
+        "city": "Germantown",
+        "zip_code": "20876",
+        "station_type": "career",
+        "apparatus": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.2446908,
+          39.1947176
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 35,
+        "station_number": "35",
+        "station_name": "Montgomery County Fire Rescue",
+        "address": "22610 Gateway Center Dr Suite 300",
+        "city": "Clarksburg",
+        "zip_code": "20871",
+        "station_type": "career",
+        "apparatus": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.2812397,
+          39.2324326
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 40,
+        "station_number": "40",
+        "station_name": "Sandy Spring Volunteer Fire Dept",
+        "address": "16911 Georgia Ave",
+        "city": "Olney",
+        "zip_code": "20832",
+        "station_type": "volunteer",
+        "apparatus": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0692489,
+          39.1339822
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 50,
+        "station_number": "50",
+        "station_name": "Walter Reed National Military Medical Center Fire Dept",
+        "address": "8901 Rockville Pike, Bldg 20",
+        "city": "Bethesda",
+        "zip_code": "20814",
+        "station_type": "federal",
+        "apparatus": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0936267,
+          39.0001457
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 51,
+        "station_number": "51",
+        "station_name": "National Institutes of Health Fire Dept",
+        "address": "51 Center Drive, Bldg 51",
+        "city": "Bethesda",
+        "zip_code": "20892",
+        "station_type": "federal",
+        "apparatus": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.1088167,
+          39.0035372
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 52,
+        "station_number": "52",
+        "station_name": "Naval Surface Warfare Center Fire Dept",
+        "address": "9500 MacArthur Blvd, Bldg 152",
+        "city": "Bethesda",
+        "zip_code": "20817",
+        "station_type": "federal",
+        "apparatus": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.191037,
+          38.9726937
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 53,
+        "station_number": "53",
+        "station_name": "National Institute of Standards and Technology Fire Dept",
+        "address": "100 Bureau Drive, Bldg 303",
+        "city": "Gaithersburg",
+        "zip_code": "20899",
+        "station_type": "federal",
+        "apparatus": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.2163521,
+          39.1446747
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 54,
+        "station_number": "54",
+        "station_name": "Walter Reed Army Medical Center Fire Dept",
+        "address": "609 Stephen Sitter Ave",
+        "city": "Silver Spring",
+        "zip_code": "20910",
+        "station_type": "federal",
+        "apparatus": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0256,
+          39.0129
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+graphhopper:
+  datareader.file: maryland-latest.osm.pbf
+  graph.location: graph-cache
+  
+  profiles:
+    - name: car
+      vehicle: car
+      weighting: custom
+      custom_model:
+        speed:
+          - if: road_access == DESTINATION
+            limit_to: 5
+  
+  profiles_ch:
+    - profile: car
+  
+  import.osm.ignored_highways: footway,cycleway,path,pedestrian,steps
+
+server:
+  application_connectors:
+    - type: http
+      port: 8989
+      bind_host: 127.0.0.1
+  admin_connectors:
+    - type: http
+      port: 8990

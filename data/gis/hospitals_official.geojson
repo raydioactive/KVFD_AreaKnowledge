@@ -1,0 +1,447 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 1,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.00168770620445,
+          38.98523972893291
+        ]
+      },
+      "properties": {
+        "OBJECTID": 1,
+        "CATEGORY": "HOSPITAL",
+        "NAME": "Washington Adventist Hospital",
+        "ADDRESS": "7600 Carroll Ave",
+        "CITY": "Takoma Park",
+        "ZIPCODE": "20912",
+        "PHONE": "301-891-7600",
+        "URL": "http://www.adventisthealthcare.com/WAH",
+        "POINT_X": 1311854.24991093,
+        "POINT_Y": 480205.09370843,
+        "LATITUDE": 38.98523188,
+        "LONGITUDE": -77.00168545,
+        "INFO": "In-County"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 2,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.11034884595928,
+          38.99720461864828
+        ]
+      },
+      "properties": {
+        "OBJECTID": 2,
+        "CATEGORY": "HOSPITAL",
+        "NAME": "Suburban Hospital Healthcare System",
+        "ADDRESS": "8600 Old Georgetown Rd",
+        "CITY": "Bethesda",
+        "ZIPCODE": "20814",
+        "PHONE": "301-896-3100",
+        "URL": "http://www.suburbanhospital.org/",
+        "POINT_X": 1280972.37520166,
+        "POINT_Y": 484581.71903162,
+        "LATITUDE": 38.99719677,
+        "LONGITUDE": -77.11034655,
+        "INFO": "In-County"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 3,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.10183363990673,
+          38.99737330850229
+        ]
+      },
+      "properties": {
+        "OBJECTID": 3,
+        "CATEGORY": "HOSPITAL",
+        "NAME": "National Institue of Health (NIH)",
+        "ADDRESS": "9000 Rockville Pik",
+        "CITY": "Bethesda",
+        "ZIPCODE": "20892",
+        "PHONE": "301-496-4000",
+        "URL": "http://www.nih.gov/",
+        "POINT_X": 1283392.50024219,
+        "POINT_Y": 484640.34408925,
+        "LATITUDE": 38.99736546,
+        "LONGITUDE": -77.10183135,
+        "INFO": "In-County"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 4,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.09366386067721,
+          39.000705093690144
+        ]
+      },
+      "properties": {
+        "OBJECTID": 4,
+        "CATEGORY": "HOSPITAL",
+        "NAME": "Walter Reed National Military Medical Center",
+        "ADDRESS": "8901 Rockville Pik",
+        "CITY": "Bethesda",
+        "ZIPCODE": "20889",
+        "PHONE": "301-295-4611",
+        "URL": "http://www.wrnmmc.capmed.mil/SitePages/home.aspx",
+        "POINT_X": 1285715.62484364,
+        "POINT_Y": 485851.31264773,
+        "LATITUDE": 39.00069725,
+        "LONGITUDE": -77.09366157,
+        "INFO": "In-County"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 5,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.03522139132033,
+          39.01472163117699
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5,
+        "CATEGORY": "HOSPITAL",
+        "NAME": "Holy Cross Hospital",
+        "ADDRESS": "1500 Forest Glen Rd",
+        "CITY": "Silver Spring",
+        "ZIPCODE": "20910",
+        "PHONE": "301-754-7000",
+        "URL": "http://www.holycrosshealth.org/",
+        "POINT_X": 1302326.37488176,
+        "POINT_Y": 490944.49994148,
+        "LATITUDE": 39.01471378,
+        "LONGITUDE": -77.03521912,
+        "INFO": "In-County"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 6,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.88315309877272,
+          39.08567348662509
+        ]
+      },
+      "properties": {
+        "OBJECTID": 6,
+        "CATEGORY": "HOSPITAL",
+        "NAME": "Laurel Regional Hospital",
+        "ADDRESS": "7300 Van Dusen Rd",
+        "CITY": "Laurel",
+        "ZIPCODE": "20707",
+        "PHONE": "301-725-4300",
+        "URL": "http://www.laurelregionalhospital.org/",
+        "POINT_X": 1345501.12535664,
+        "POINT_Y": 516805.15594269,
+        "LATITUDE": 39.08566561,
+        "LONGITUDE": -76.88315087,
+        "INFO": "Out-of-County"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 7,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.19867503733158,
+          39.09847392048279
+        ]
+      },
+      "properties": {
+        "OBJECTID": 7,
+        "CATEGORY": "HOSPITAL",
+        "NAME": "Shady Grove Adventist Hospital",
+        "ADDRESS": "9901 Medical Center Dr",
+        "CITY": "Rockville",
+        "ZIPCODE": "20850",
+        "PHONE": "240-826-6000",
+        "URL": "http://www.adventisthealthcare.com/SGAH",
+        "POINT_X": 1255949.99971607,
+        "POINT_Y": 521507.37508511,
+        "LATITUDE": 39.09846606,
+        "LONGITUDE": -77.19867271,
+        "INFO": "In-County"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.05466952498841,
+          39.154017389961844
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8,
+        "CATEGORY": "HOSPITAL",
+        "NAME": "MedStar Montgomery Medical Center",
+        "ADDRESS": "18101 Prince Phillip Dr",
+        "CITY": "Olney",
+        "ZIPCODE": "20832",
+        "PHONE": "301-774-8882",
+        "URL": "http://www.medstarmontgomery.org/",
+        "POINT_X": 1296830.87512179,
+        "POINT_Y": 541680.50001595,
+        "LATITUDE": 39.15400951,
+        "LONGITUDE": -77.05466724,
+        "INFO": "In-County"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 9,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.26399340042335,
+          39.1798211437135
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9,
+        "CATEGORY": "HOSPITAL",
+        "NAME": "Germantown Emergency Center",
+        "ADDRESS": "19731 Germantown Rd",
+        "CITY": "Germantown",
+        "ZIPCODE": "20874",
+        "PHONE": "301-444-8000",
+        "URL": "http://www.adventisthealthcare.com/locations/#.V6TnpPkrKM8",
+        "POINT_X": 1237498.37148279,
+        "POINT_Y": 551182.3123957,
+        "LATITUDE": 39.17981327,
+        "LONGITUDE": -77.26399105,
+        "INFO": "In-County"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 10,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.41214924040024,
+          39.4215926411411
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10,
+        "CATEGORY": "HOSPITAL",
+        "NAME": "Frederick Memorial Hospital",
+        "ADDRESS": "400 W Seventh St",
+        "CITY": "Frederick",
+        "ZIPCODE": "21701",
+        "PHONE": "240-566-3300",
+        "URL": "http://www.fmh.org",
+        "POINT_X": null,
+        "POINT_Y": null,
+        "LATITUDE": 39.42158472,
+        "LONGITUDE": -77.41214683,
+        "INFO": "Out-of-County"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 11,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.24345759052214,
+          39.181535104985905
+        ]
+      },
+      "properties": {
+        "OBJECTID": 11,
+        "CATEGORY": "HOSPITAL",
+        "NAME": "Holy Cross Germantown Hospital",
+        "ADDRESS": "19801 Observation Dr",
+        "CITY": "Germantown",
+        "ZIPCODE": "20876",
+        "PHONE": "301-557-6000",
+        "URL": "http://www.holycrosshealth.org/hcgh",
+        "POINT_X": null,
+        "POINT_Y": null,
+        "LATITUDE": 39.18152723,
+        "LONGITUDE": -77.24345524,
+        "INFO": "In-County"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.88446071237846,
+          39.21466207185873
+        ]
+      },
+      "properties": {
+        "OBJECTID": 12,
+        "CATEGORY": "HOSPITAL",
+        "NAME": "Howard County General Hospital",
+        "ADDRESS": "5755 Cedar Ln",
+        "CITY": "Columbia",
+        "ZIPCODE": "21044",
+        "PHONE": "410-740-7890",
+        "URL": "http://www.hopkinsmedicine.org/howard_county_general_hospital/",
+        "POINT_X": null,
+        "POINT_Y": null,
+        "LATITUDE": 39.21465417,
+        "LONGITUDE": -76.88445848,
+        "INFO": "Out-of-County"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 13,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.10846005052943,
+          38.939017282528155
+        ]
+      },
+      "properties": {
+        "OBJECTID": 13,
+        "CATEGORY": "HOSPITAL",
+        "NAME": "Sibley Memorial Hospital",
+        "ADDRESS": "5255 Loughboro Rd NW",
+        "CITY": "Washington",
+        "ZIPCODE": "20016",
+        "PHONE": "202-537-4000",
+        "URL": "http://www.hopkinsmedicine.org/sibley-memorial-hospital/",
+        "POINT_X": null,
+        "POINT_Y": null,
+        "LATITUDE": 38.93900945,
+        "LONGITUDE": -77.10845776,
+        "INFO": "Out-of-County"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 14,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0155536017005,
+          38.929380640959906
+        ]
+      },
+      "properties": {
+        "OBJECTID": 14,
+        "CATEGORY": "HOSPITAL",
+        "NAME": "MedStar Washington Hospital Center",
+        "ADDRESS": "110 Irving St NW",
+        "CITY": "Washington",
+        "ZIPCODE": "20010",
+        "PHONE": "202-877-7000",
+        "URL": "http://www.medstarwashington.org/#q={}",
+        "POINT_X": null,
+        "POINT_Y": null,
+        "LATITUDE": 38.9293728,
+        "LONGITUDE": -77.01555134,
+        "INFO": "Out-of-County"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 15,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.22722837980668,
+          38.85764354569934
+        ]
+      },
+      "properties": {
+        "OBJECTID": 15,
+        "CATEGORY": "HOSPITAL",
+        "NAME": "Inova Fairfax Medical Center",
+        "ADDRESS": "3300 Gallows Rd",
+        "CITY": "Falls Church",
+        "ZIPCODE": "22042",
+        "PHONE": "703-776-4001",
+        "URL": "http://www.inova.org/patient-and-visitor-information/facilities/inova-fairfax-hospital/index.jsp",
+        "POINT_X": null,
+        "POINT_Y": null,
+        "LATITUDE": 38.85763573,
+        "LONGITUDE": -77.22722606,
+        "INFO": "Out-of-County"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 16,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.01485143420986,
+          38.9272977453937
+        ]
+      },
+      "properties": {
+        "OBJECTID": 16,
+        "CATEGORY": "HOSPITAL",
+        "NAME": "Childrens National Medical Center",
+        "ADDRESS": "111 Michigan Ave NW",
+        "CITY": "Washington",
+        "ZIPCODE": "20010",
+        "PHONE": "202-476-5000",
+        "URL": "http://www.childrensnational.org/",
+        "POINT_X": null,
+        "POINT_Y": null,
+        "LATITUDE": 38.92728991,
+        "LONGITUDE": -77.01484917,
+        "INFO": "Out-of-County"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 17,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.95855995037553,
+          39.0493811003234
+        ]
+      },
+      "properties": {
+        "OBJECTID": 17,
+        "CATEGORY": "HOSPITAL",
+        "NAME": "White Oak Medical Center",
+        "ADDRESS": "11890 Healing Way",
+        "CITY": "Silver Spring",
+        "ZIPCODE": "20904",
+        "PHONE": null,
+        "URL": "https://www.adventisthealthcare.com/locations/profile/white-oak-medical-center/",
+        "POINT_X": null,
+        "POINT_Y": null,
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "INFO": "In-County"
+      }
+    }
+  ]
+}

@@ -1,0 +1,490 @@
+{
+  "type": "FeatureCollection",
+  "properties": {
+    "description": "Hospitals relevant for Montgomery County EMS",
+    "last_updated": "2025-01-11",
+    "sources": [
+      "Maryland MIEMSS",
+      "DC FEMS",
+      "Hospital websites"
+    ]
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.1108161,
+          38.998192
+        ]
+      },
+      "properties": {
+        "name": "Suburban Hospital (Johns Hopkins Medicine)",
+        "short_name": "Suburban",
+        "address": "8600 Old Georgetown Rd",
+        "city": "Bethesda",
+        "state": "MD",
+        "zip_code": "20814",
+        "phone": "301-896-3100",
+        "trauma_level": 2,
+        "is_trauma_center": true,
+        "is_stemi_center": true,
+        "is_stroke_center": true,
+        "stroke_level": "Comprehensive",
+        "is_burn_center": false,
+        "is_pediatric_center": false,
+        "has_helipad": true,
+        "ed_beds": 42,
+        "notes": "Primary receiving for much of MoCo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0351498,
+          39.0149063
+        ]
+      },
+      "properties": {
+        "name": "Holy Cross Hospital",
+        "short_name": "Holy Cross",
+        "address": "1500 Forest Glen Rd",
+        "city": "Silver Spring",
+        "state": "MD",
+        "zip_code": "20910",
+        "phone": "301-754-7000",
+        "trauma_level": 2,
+        "is_trauma_center": true,
+        "is_stemi_center": true,
+        "is_stroke_center": true,
+        "stroke_level": "Comprehensive",
+        "is_burn_center": false,
+        "is_pediatric_center": false,
+        "has_helipad": true,
+        "notes": "High volume ED"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.198546,
+          39.0984534
+        ]
+      },
+      "properties": {
+        "name": "Adventist HealthCare Shady Grove Medical Center",
+        "short_name": "Shady Grove",
+        "address": "9901 Medical Center Dr",
+        "city": "Rockville",
+        "state": "MD",
+        "zip_code": "20850",
+        "phone": "240-826-6000",
+        "trauma_level": null,
+        "is_trauma_center": false,
+        "is_stemi_center": true,
+        "is_stroke_center": true,
+        "stroke_level": "Primary",
+        "is_burn_center": false,
+        "is_pediatric_center": false,
+        "has_helipad": true,
+        "notes": "Large community hospital"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9564444,
+          39.0493005
+        ]
+      },
+      "properties": {
+        "name": "Adventist HealthCare White Oak Medical Center",
+        "short_name": "White Oak",
+        "address": "11890 Healing Way",
+        "city": "Silver Spring",
+        "state": "MD",
+        "zip_code": "20904",
+        "phone": "240-637-4000",
+        "trauma_level": null,
+        "is_trauma_center": false,
+        "is_stemi_center": true,
+        "is_stroke_center": true,
+        "stroke_level": "Primary",
+        "is_burn_center": false,
+        "is_pediatric_center": false,
+        "has_helipad": false,
+        "notes": "Newer facility, replaced Washington Adventist"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.055181,
+          39.153018
+        ]
+      },
+      "properties": {
+        "name": "MedStar Montgomery Medical Center",
+        "short_name": "MedStar Montgomery",
+        "address": "18101 Prince Philip Dr",
+        "city": "Olney",
+        "state": "MD",
+        "zip_code": "20832",
+        "phone": "301-774-8882",
+        "trauma_level": null,
+        "is_trauma_center": false,
+        "is_stemi_center": true,
+        "is_stroke_center": true,
+        "stroke_level": "Primary",
+        "is_burn_center": false,
+        "is_pediatric_center": false,
+        "has_helipad": true,
+        "notes": "Serves upper MoCo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.1085922,
+          39.0031302
+        ]
+      },
+      "properties": {
+        "name": "National Institutes of Health Clinical Center",
+        "short_name": "NIH",
+        "address": "10 Center Dr",
+        "city": "Bethesda",
+        "state": "MD",
+        "zip_code": "20892",
+        "phone": "301-496-4000",
+        "trauma_level": null,
+        "is_trauma_center": false,
+        "is_stemi_center": false,
+        "is_stroke_center": false,
+        "is_burn_center": false,
+        "is_pediatric_center": false,
+        "has_helipad": true,
+        "notes": "Research hospital - limited ED services"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0147693,
+          38.9287492
+        ]
+      },
+      "properties": {
+        "name": "MedStar Washington Hospital Center",
+        "short_name": "WHC",
+        "address": "110 Irving St NW",
+        "city": "Washington",
+        "state": "DC",
+        "zip_code": "20010",
+        "phone": "202-877-7000",
+        "trauma_level": 1,
+        "is_trauma_center": true,
+        "is_stemi_center": true,
+        "is_stroke_center": true,
+        "stroke_level": "Comprehensive",
+        "is_burn_center": true,
+        "burn_level": "regional",
+        "is_pediatric_center": false,
+        "has_helipad": true,
+        "notes": "Major DC trauma center, MedSTAR base"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0139788,
+          38.927021
+        ]
+      },
+      "properties": {
+        "name": "Children's National Hospital",
+        "short_name": "Children's National",
+        "address": "111 Michigan Ave NW",
+        "city": "Washington",
+        "state": "DC",
+        "zip_code": "20010",
+        "phone": "202-476-5000",
+        "trauma_level": 1,
+        "is_trauma_center": true,
+        "is_stemi_center": false,
+        "is_stroke_center": false,
+        "is_burn_center": true,
+        "burn_level": "pediatric",
+        "is_pediatric_center": true,
+        "has_helipad": true,
+        "notes": "ONLY pediatric trauma center in region"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0506159,
+          38.9013767
+        ]
+      },
+      "properties": {
+        "name": "George Washington University Hospital",
+        "short_name": "GW",
+        "address": "900 23rd St NW",
+        "city": "Washington",
+        "state": "DC",
+        "zip_code": "20037",
+        "phone": "202-715-4000",
+        "trauma_level": 1,
+        "is_trauma_center": true,
+        "is_stemi_center": true,
+        "is_stroke_center": true,
+        "stroke_level": "Comprehensive",
+        "is_burn_center": false,
+        "is_pediatric_center": false,
+        "has_helipad": true,
+        "notes": "Downtown DC trauma center"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0201005,
+          38.9178339
+        ]
+      },
+      "properties": {
+        "name": "Howard University Hospital",
+        "short_name": "Howard",
+        "address": "2041 Georgia Ave NW",
+        "city": "Washington",
+        "state": "DC",
+        "zip_code": "20060",
+        "phone": "202-865-6100",
+        "trauma_level": 1,
+        "is_trauma_center": true,
+        "is_stemi_center": true,
+        "is_stroke_center": true,
+        "stroke_level": "Primary",
+        "is_burn_center": false,
+        "is_pediatric_center": false,
+        "has_helipad": true,
+        "notes": "Historic hospital, trauma center"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9849375,
+          38.8358759
+        ]
+      },
+      "properties": {
+        "name": "United Medical Center",
+        "short_name": "UMC",
+        "address": "1310 Southern Ave SE",
+        "city": "Washington",
+        "state": "DC",
+        "zip_code": "20032",
+        "phone": "202-574-6000",
+        "trauma_level": null,
+        "is_trauma_center": false,
+        "is_stemi_center": false,
+        "is_stroke_center": true,
+        "stroke_level": "Primary",
+        "is_burn_center": false,
+        "is_pediatric_center": false,
+        "has_helipad": false,
+        "notes": "SE DC, limited services"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0753462,
+          38.9111463
+        ]
+      },
+      "properties": {
+        "name": "MedStar Georgetown University Hospital",
+        "short_name": "Georgetown",
+        "address": "3800 Reservoir Rd NW",
+        "city": "Washington",
+        "state": "DC",
+        "zip_code": "20007",
+        "phone": "202-444-2000",
+        "trauma_level": null,
+        "is_trauma_center": false,
+        "is_stemi_center": true,
+        "is_stroke_center": true,
+        "stroke_level": "Comprehensive",
+        "is_burn_center": false,
+        "is_pediatric_center": false,
+        "has_helipad": true,
+        "notes": "Academic medical center"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9934058,
+          38.9445417
+        ]
+      },
+      "properties": {
+        "name": "Providence Hospital",
+        "short_name": "Providence",
+        "address": "1150 Varnum St NE",
+        "city": "Washington",
+        "state": "DC",
+        "zip_code": "20017",
+        "phone": "202-269-7000",
+        "trauma_level": null,
+        "is_trauma_center": false,
+        "is_stemi_center": true,
+        "is_stroke_center": true,
+        "stroke_level": "Primary",
+        "is_burn_center": false,
+        "is_pediatric_center": false,
+        "has_helipad": false,
+        "notes": "NE DC community hospital"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.6243944,
+          39.2882737
+        ]
+      },
+      "properties": {
+        "name": "R Adams Cowley Shock Trauma Center",
+        "short_name": "Shock Trauma",
+        "address": "22 S Greene St",
+        "city": "Baltimore",
+        "state": "MD",
+        "zip_code": "21201",
+        "phone": "410-328-9000",
+        "trauma_level": 1,
+        "is_trauma_center": true,
+        "is_stemi_center": true,
+        "is_stroke_center": true,
+        "stroke_level": "Comprehensive",
+        "is_burn_center": true,
+        "is_pediatric_center": false,
+        "has_helipad": true,
+        "notes": "PRIMARY ADULT RESOURCE CENTER - highest level trauma in MD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.5923927,
+          39.2964392
+        ]
+      },
+      "properties": {
+        "name": "Johns Hopkins Hospital",
+        "short_name": "Hopkins",
+        "address": "1800 Orleans St",
+        "city": "Baltimore",
+        "state": "MD",
+        "zip_code": "21287",
+        "phone": "410-955-5000",
+        "trauma_level": 1,
+        "is_trauma_center": true,
+        "is_stemi_center": true,
+        "is_stroke_center": true,
+        "stroke_level": "Comprehensive",
+        "is_burn_center": true,
+        "is_pediatric_center": false,
+        "has_helipad": true,
+        "notes": "World-class academic medical center"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.00035,
+          38.983535
+        ]
+      },
+      "properties": {
+        "name": "Adventist HealthCare Takoma Park (Washington Adventist)",
+        "short_name": "Takoma Park",
+        "address": "7600 Carroll Ave",
+        "city": "Takoma Park",
+        "state": "MD",
+        "zip_code": "20912",
+        "phone": "301-891-7600",
+        "trauma_level": null,
+        "is_trauma_center": false,
+        "is_stemi_center": false,
+        "is_stroke_center": false,
+        "is_burn_center": false,
+        "is_pediatric_center": false,
+        "has_helipad": false,
+        "notes": "Limited services - many transferred to White Oak"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.2428068,
+          39.1820436
+        ]
+      },
+      "properties": {
+        "name": "Holy Cross Health Germantown",
+        "short_name": "Holy Cross Germantown",
+        "address": "19801 Observation Dr",
+        "city": "Germantown",
+        "state": "MD",
+        "zip_code": "20876",
+        "phone": "301-557-7000",
+        "trauma_level": null,
+        "is_trauma_center": false,
+        "is_stemi_center": true,
+        "is_stroke_center": true,
+        "stroke_level": "Primary",
+        "is_burn_center": false,
+        "is_pediatric_center": false,
+        "has_helipad": false,
+        "notes": "Newer campus, full ED"
+      }
+    }
+  ]
+}

@@ -1,0 +1,670 @@
+{
+  "type": "FeatureCollection",
+  "properties": {
+    "description": "Long-term care facilities in Montgomery County, MD",
+    "last_updated": "2025-01-11",
+    "sources": [
+      "CMS Provider Data",
+      "Maryland Health Care Commission"
+    ]
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.1972104,
+          39.1466909
+        ]
+      },
+      "properties": {
+        "name": "Asbury Methodist Village",
+        "short_name": "Asbury",
+        "address": "201 Russell Ave",
+        "city": "Gaithersburg",
+        "state": "MD",
+        "zip_code": "20877",
+        "phone": "301-216-4001",
+        "facility_type": "nursing_home",
+        "bed_count": 120,
+        "cms_rating": 4,
+        "notes": "Large CCRC with SNF, assisted living"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.1232463,
+          39.0549474
+        ]
+      },
+      "properties": {
+        "name": "Hebrew Home of Greater Washington",
+        "short_name": "Hebrew Home",
+        "address": "6121 Montrose Rd",
+        "city": "Rockville",
+        "state": "MD",
+        "zip_code": "20852",
+        "phone": "301-881-0300",
+        "facility_type": "nursing_home",
+        "bed_count": 550,
+        "cms_rating": 5,
+        "notes": "Largest SNF in MoCo, multiple care levels"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.1264645,
+          39.0563509
+        ]
+      },
+      "properties": {
+        "name": "Ring House",
+        "short_name": "Ring House",
+        "address": "1801 E Jefferson St",
+        "city": "Rockville",
+        "state": "MD",
+        "zip_code": "20852",
+        "phone": "301-816-5050",
+        "facility_type": "assisted_living",
+        "bed_count": 240,
+        "cms_rating": null,
+        "notes": "Jewish Foundation senior housing"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9464,
+          39.0611
+        ]
+      },
+      "properties": {
+        "name": "Riderwood Village",
+        "short_name": "Riderwood",
+        "address": "3140 Gracefield Rd",
+        "city": "Silver Spring",
+        "state": "MD",
+        "zip_code": "20904",
+        "phone": "301-572-8300",
+        "facility_type": "nursing_home",
+        "bed_count": 380,
+        "cms_rating": 4,
+        "notes": "Very large Erickson CCRC campus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.177129,
+          39.112038
+        ]
+      },
+      "properties": {
+        "name": "Ingleside at King Farm",
+        "short_name": "Ingleside King Farm",
+        "address": "701 King Farm Blvd",
+        "city": "Rockville",
+        "state": "MD",
+        "zip_code": "20850",
+        "phone": "240-499-8900",
+        "facility_type": "nursing_home",
+        "bed_count": 180,
+        "cms_rating": 4,
+        "notes": "CCRC with skilled nursing"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.1177222,
+          39.0138441
+        ]
+      },
+      "properties": {
+        "name": "Maplewood Park Place",
+        "short_name": "Maplewood",
+        "address": "9707 Old Georgetown Rd",
+        "city": "Bethesda",
+        "state": "MD",
+        "zip_code": "20814",
+        "phone": "301-530-0500",
+        "facility_type": "nursing_home",
+        "bed_count": 180,
+        "cms_rating": 3,
+        "notes": "SNF with memory care"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.1536613,
+          38.9917222
+        ]
+      },
+      "properties": {
+        "name": "Fox Hill Senior Living",
+        "short_name": "Fox Hill",
+        "address": "8300 Burdette Rd",
+        "city": "Bethesda",
+        "state": "MD",
+        "zip_code": "20817",
+        "phone": "301-469-9200",
+        "facility_type": "assisted_living",
+        "bed_count": 150,
+        "cms_rating": null,
+        "notes": "Sunrise senior living"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0891173,
+          38.9643085
+        ]
+      },
+      "properties": {
+        "name": "Brighton Gardens of Friendship Heights",
+        "short_name": "Brighton Gardens",
+        "address": "5555 Friendship Blvd",
+        "city": "Chevy Chase",
+        "state": "MD",
+        "zip_code": "20815",
+        "phone": "301-656-1900",
+        "facility_type": "assisted_living",
+        "bed_count": 96,
+        "cms_rating": null,
+        "notes": "Sunrise senior living"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.1799977,
+          39.088189
+        ]
+      },
+      "properties": {
+        "name": "Collingswood Nursing & Rehab",
+        "short_name": "Collingswood",
+        "address": "299 Hurley Ave",
+        "city": "Rockville",
+        "state": "MD",
+        "zip_code": "20850",
+        "phone": "301-762-8900",
+        "facility_type": "nursing_home",
+        "bed_count": 150,
+        "cms_rating": 3,
+        "notes": "SNF with rehab services"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0504983,
+          39.0511487
+        ]
+      },
+      "properties": {
+        "name": "ManorCare Health Services - Wheaton",
+        "short_name": "ManorCare Wheaton",
+        "address": "11901 Georgia Ave",
+        "city": "Wheaton",
+        "state": "MD",
+        "zip_code": "20902",
+        "phone": "301-942-2500",
+        "facility_type": "nursing_home",
+        "bed_count": 180,
+        "cms_rating": 3,
+        "notes": "SNF with rehab"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0189,
+          39.0186
+        ]
+      },
+      "properties": {
+        "name": "ManorCare Health Services - Silver Spring",
+        "short_name": "ManorCare Silver Spring",
+        "address": "2501 Musgrove Rd",
+        "city": "Silver Spring",
+        "state": "MD",
+        "zip_code": "20904",
+        "phone": "301-384-6161",
+        "facility_type": "nursing_home",
+        "bed_count": 160,
+        "cms_rating": 2,
+        "notes": "SNF with rehab"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.076403,
+          39.02755
+        ]
+      },
+      "properties": {
+        "name": "Sunrise at Kensington Park",
+        "short_name": "Sunrise Kensington",
+        "address": "10501 Connecticut Ave",
+        "city": "Kensington",
+        "state": "MD",
+        "zip_code": "20895",
+        "phone": "301-946-4494",
+        "facility_type": "assisted_living",
+        "bed_count": 80,
+        "cms_rating": null,
+        "notes": "Near Station 5"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0756615,
+          39.0174132
+        ]
+      },
+      "properties": {
+        "name": "Kensington Park Senior Living",
+        "short_name": "Kensington Park",
+        "address": "3620 Littledale Rd",
+        "city": "Kensington",
+        "state": "MD",
+        "zip_code": "20895",
+        "phone": "301-946-7700",
+        "facility_type": "nursing_home",
+        "bed_count": 160,
+        "cms_rating": 3,
+        "notes": "SNF near Station 5"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0434,
+          39.023922
+        ]
+      },
+      "properties": {
+        "name": "Forest Glen Nursing Center",
+        "short_name": "Forest Glen",
+        "address": "2101 Medical Park Dr",
+        "city": "Silver Spring",
+        "state": "MD",
+        "zip_code": "20910",
+        "phone": "301-681-4500",
+        "facility_type": "nursing_home",
+        "bed_count": 120,
+        "cms_rating": 3,
+        "notes": "Near Holy Cross Hospital"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.1289,
+          39.0847
+        ]
+      },
+      "properties": {
+        "name": "Shady Grove Nursing & Rehab",
+        "short_name": "Shady Grove Nursing",
+        "address": "9701 Medical Center Dr",
+        "city": "Rockville",
+        "state": "MD",
+        "zip_code": "20850",
+        "phone": "301-424-6400",
+        "facility_type": "nursing_home",
+        "bed_count": 150,
+        "cms_rating": 3,
+        "notes": "Near Shady Grove Hospital"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.1977913,
+          39.1482
+        ]
+      },
+      "properties": {
+        "name": "Wilson Health Care Center",
+        "short_name": "Wilson Health",
+        "address": "301 Russell Ave",
+        "city": "Gaithersburg",
+        "state": "MD",
+        "zip_code": "20877",
+        "phone": "301-216-4200",
+        "facility_type": "nursing_home",
+        "bed_count": 90,
+        "cms_rating": 4,
+        "notes": "Part of Asbury campus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.1607848,
+          39.0740422
+        ]
+      },
+      "properties": {
+        "name": "Potomac Valley Nursing & Wellness",
+        "short_name": "Potomac Valley",
+        "address": "1235 Potomac Valley Rd",
+        "city": "Rockville",
+        "state": "MD",
+        "zip_code": "20850",
+        "phone": "301-762-0700",
+        "facility_type": "nursing_home",
+        "bed_count": 170,
+        "cms_rating": 4,
+        "notes": "SNF with rehab services"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.040551,
+          39.15523
+        ]
+      },
+      "properties": {
+        "name": "Brooke Grove Rehabilitation",
+        "short_name": "Brooke Grove",
+        "address": "18100 Slade School Rd",
+        "city": "Sandy Spring",
+        "state": "MD",
+        "zip_code": "20860",
+        "phone": "301-924-2811",
+        "facility_type": "nursing_home",
+        "bed_count": 220,
+        "cms_rating": 5,
+        "notes": "Large campus with multiple levels of care"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0018061,
+          38.9820922
+        ]
+      },
+      "properties": {
+        "name": "Sligo Creek Center",
+        "short_name": "Sligo Creek",
+        "address": "7525 Carroll Ave",
+        "city": "Takoma Park",
+        "state": "MD",
+        "zip_code": "20912",
+        "phone": "301-270-4200",
+        "facility_type": "nursing_home",
+        "bed_count": 100,
+        "cms_rating": 2,
+        "notes": "SNF in Takoma Park"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0847,
+          39.0708
+        ]
+      },
+      "properties": {
+        "name": "ManorCare Health Services - Kensington",
+        "short_name": "ManorCare Kensington",
+        "address": "4550 Connecticut Ave NW",
+        "city": "Kensington",
+        "state": "MD",
+        "zip_code": "20895",
+        "phone": "301-933-3900",
+        "facility_type": "nursing_home",
+        "bed_count": 120,
+        "notes": "SNF with rehab"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0604307,
+          39.0293053
+        ]
+      },
+      "properties": {
+        "name": "Kensington Healthcare Center",
+        "short_name": "Kensington Healthcare",
+        "address": "3000 Plyers Mill Rd",
+        "city": "Kensington",
+        "state": "MD",
+        "zip_code": "20895",
+        "phone": "301-933-9715",
+        "facility_type": "nursing_home",
+        "bed_count": 150,
+        "notes": "SNF on Plyers Mill - Station 5 first due"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.1152088,
+          39.0242375
+        ]
+      },
+      "properties": {
+        "name": "Bethesda Health and Rehabilitation",
+        "short_name": "Bethesda Health",
+        "address": "5721 Grosvenor Ln",
+        "city": "Bethesda",
+        "state": "MD",
+        "zip_code": "20814",
+        "phone": "301-530-1600",
+        "facility_type": "nursing_home",
+        "bed_count": 140,
+        "notes": "Near NIH"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.1318593,
+          39.0231568
+        ]
+      },
+      "properties": {
+        "name": "Manor Care Health Services - Bethesda",
+        "short_name": "ManorCare Bethesda",
+        "address": "6530 Democracy Blvd",
+        "city": "Bethesda",
+        "state": "MD",
+        "zip_code": "20817",
+        "phone": "301-530-8600",
+        "facility_type": "nursing_home",
+        "bed_count": 170,
+        "notes": "SNF with rehab"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0993487,
+          38.9898209
+        ]
+      },
+      "properties": {
+        "name": "The Pines at Bethesda",
+        "short_name": "The Pines",
+        "address": "4905 Del Ray Ave",
+        "city": "Bethesda",
+        "state": "MD",
+        "zip_code": "20814",
+        "phone": "301-657-8686",
+        "facility_type": "assisted_living",
+        "bed_count": 60,
+        "notes": "Near NIH"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0834451,
+          39.0301688
+        ]
+      },
+      "properties": {
+        "name": "Arden Courts of Kensington",
+        "short_name": "Arden Courts",
+        "address": "4301 Knowles Ave",
+        "city": "Kensington",
+        "state": "MD",
+        "zip_code": "20895",
+        "phone": "301-493-8880",
+        "facility_type": "memory_care",
+        "bed_count": 60,
+        "notes": "Memory care - Station 5 area"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0213492,
+          38.9990178
+        ]
+      },
+      "properties": {
+        "name": "Springvale Terrace",
+        "short_name": "Springvale Terrace",
+        "address": "8505 Springvale Rd",
+        "city": "Silver Spring",
+        "state": "MD",
+        "zip_code": "20910",
+        "phone": "301-587-0190",
+        "facility_type": "assisted_living",
+        "bed_count": 85,
+        "notes": "Senior apartments"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0929214,
+          38.9811629
+        ]
+      },
+      "properties": {
+        "name": "The Willows of Bethesda",
+        "short_name": "Willows Bethesda",
+        "address": "7201 Wisconsin Ave",
+        "city": "Bethesda",
+        "state": "MD",
+        "zip_code": "20814",
+        "phone": "301-215-9110",
+        "facility_type": "assisted_living",
+        "bed_count": 65,
+        "notes": "Downtown Bethesda"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0709375,
+          39.0253574
+        ]
+      },
+      "properties": {
+        "name": "Lorien Tandem at Kensington",
+        "short_name": "Lorien Kensington",
+        "address": "10301 Kensington Pkwy",
+        "city": "Kensington",
+        "state": "MD",
+        "zip_code": "20895",
+        "phone": "301-946-4444",
+        "facility_type": "nursing_home",
+        "bed_count": 90,
+        "notes": "SNF - Station 5 area"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0445105,
+          39.0198441
+        ]
+      },
+      "properties": {
+        "name": "Regency Care of Silver Spring",
+        "short_name": "Regency Care",
+        "address": "10000 Georgia Ave",
+        "city": "Silver Spring",
+        "state": "MD",
+        "zip_code": "20902",
+        "phone": "301-681-5200",
+        "facility_type": "nursing_home",
+        "bed_count": 110,
+        "notes": "SNF near Forest Glen"
+      }
+    }
+  ]
+}
